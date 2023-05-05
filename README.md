@@ -9,3 +9,17 @@
 <h4 align="center"> This is a memory game with 15 rounds, where the player has to write correctly all the colors displayed on the screen.  </h4>
 
 <p align="center"> Genius was made as a college project for Faculdade de Tecnologia de Americana, using the C language and the concept of LIFO structure. </p>
+
+<p align="center">
+<img src="./assets/inicial.png"></img>
+</p>
+
+
+<p align="center">
+<img src="./assets/gameplay1.png"></img>
+</p>
+
+
+<p align="center">
+<img src="./assets/gameplay3.png"></img>
+</p>
