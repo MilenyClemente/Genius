@@ -2,7 +2,7 @@
 
 <h4 align="center"> This is the repository for the complete source codes and assets used in the game. You can use it for free to learn, research, modify or improve the game. The limit is your imagination! </h4>
 
-<p align="center"><a href="#" target="_blank">Check this game at itch.io here! </a></p>
+<p align="center"><a href="https://milenyclemente.itch.io/genius" target="_blank">Check this game at itch.io here! </a></p>
 
 <hr> 
 
